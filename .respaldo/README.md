@@ -1,6 +1,6 @@
 # BQAI evaluación de modelos de lenguaje
 
-Copia privada de las fuentes del proyecto al 2026-10-22.
+Copia de las fuentes del proyecto al 2026-10-22.
 
 Origen: Repositorio mmoralescode/llm-benchmark-quality-index.
 
